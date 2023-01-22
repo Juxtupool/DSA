@@ -7,5 +7,5 @@ def case(n):
         else:
             print(i.lower(),end='')
 
-n=input('Enter a Random String')
+n=input('Enter a Random String: ')
 case(n)
